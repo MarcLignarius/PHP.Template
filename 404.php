@@ -42,7 +42,7 @@
                     <a href="blog-home-1.php">Blog Home 1</a>
                 </li>
                 <li>
-                    <a href="blog-home-2.html">Blog Home 2</a>
+                    <a href="blog-home-2.php">Blog Home 2</a>
                 </li>
                 <li>
                     <a href="blog-post.html">Blog Post</a>
