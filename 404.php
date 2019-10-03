@@ -16,7 +16,7 @@
             <a href="services.html">Services</a>
         </li>
         <li>
-            <a href="contact.html">Contact</a>
+            <a href="contact.php">Contact</a>
         </li>
         <li>
             Portfolio
