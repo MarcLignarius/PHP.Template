@@ -62,7 +62,7 @@
                     <a href="faq.html">FAQ</a>
                 </li>
                 <li>
-                    <a href="404.html">404 Page</a>
+                    <a href="404.php">404 Page</a>
                 </li>
                 <li>
                     <a href="pricing-table.html">Pricing Table</a>
