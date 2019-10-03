@@ -13,12 +13,6 @@
    * [Description](#description)
    * [Technologies Used](#technologies-used)
    * [Setup and Installation](#setup-and-installation)
-   * [User Stories](#user-stories)
-      * [Adding a Task](#adding-a-task)
-      * [Editing a Task](#editing-a-task)
-      * [Deleting a Task](#deleting-a-task)
-   * [Mimimum Viable Product](#minimum-viable-product)
-   * [Stretch Goals](#stretch-goals)
    * [Known Bugs](#known-bugs)
    * [Support And Contact Details](#support-and-contact-details)
 <!--te-->
@@ -43,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odi
 * Note: The app will automatically reload if you change any of the source files. This is a continuous monitoring so to stop it just type the key combination `Ctrl + C` within the terminal.
 
 ## Known Bugs
-There are no known bugs as of that last release.
+There are no known bugs as of last release.
 
 ## Support and Contact Details
 Please contact me at marcdaviesriot@gmail.com if you have any questions. Your feedback is always welcomed!
