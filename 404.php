@@ -13,7 +13,7 @@
             <a href="about.php">About</a>
         </li>
         <li>
-            <a href="services.html">Services</a>
+            <a href="services.php">Services</a>
         </li>
         <li>
             <a href="contact.php">Contact</a>
@@ -53,10 +53,7 @@
             Other Pages
             <ul>
                 <li>
-                    <a href="full-width-page.html">Full Width Page</a>
-                </li>
-                <li>
-                    <a href="sidebar.html">Sidebar Page</a>
+                    <a href="sidebar.php">Sidebar Page</a>
                 </li>
                 <li>
                     <a href="faq.php">FAQ</a>
@@ -65,7 +62,7 @@
                     <a href="404.php">404 Page</a>
                 </li>
                 <li>
-                    <a href="pricing-table.html">Pricing Table</a>
+                    <a href="pricing.php">Pricing Table</a>
                 </li>
             </ul>
         </li>

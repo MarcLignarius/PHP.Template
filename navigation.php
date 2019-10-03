@@ -25,7 +25,7 @@
                         <a class="dropdown-item" href="portfolio-2-col.php">2 Column Portfolio</a>
                         <a class="dropdown-item" href="portfolio-3-col.php">3 Column Portfolio</a>
                         <a class="dropdown-item" href="portfolio-4-col.php">4 Column Portfolio</a>
-                        <a class="dropdown-item" href="portfolio-item.html">Single Portfolio Item</a>
+                        <a class="dropdown-item" href="portfolio-item.php">Single Portfolio Item</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -43,10 +43,10 @@
                         Other Pages
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                        <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
+                        <a class="dropdown-item" href="sidebar.php">Sidebar Page</a>
                         <a class="dropdown-item" href="faq.php">FAQ</a>
                         <a class="dropdown-item" href="404.php">404</a>
-                        <a class="dropdown-item" href="pricing.html">Pricing Table</a>
+                        <a class="dropdown-item" href="pricing.php">Pricing Table</a>
                     </div>
                 </li>
             </ul>
