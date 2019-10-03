@@ -43,7 +43,6 @@
                         Other Pages
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
-                        <a class="dropdown-item" href="full-width.html">Full Width Page</a>
                         <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
                         <a class="dropdown-item" href="faq.php">FAQ</a>
                         <a class="dropdown-item" href="404.php">404</a>
