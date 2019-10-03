@@ -45,7 +45,7 @@
                     <a href="blog-home-2.php">Blog Home 2</a>
                 </li>
                 <li>
-                    <a href="blog-post.html">Blog Post</a>
+                    <a href="blog-post.php">Blog Post</a>
                 </li>
             </ul>
         </li>
