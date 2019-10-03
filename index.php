@@ -5,7 +5,6 @@
 
 <!-- Page Content -->
 <div class="container">
-
 <h1 class="my-4">This is page content!</h1>
 
 <!-- Marketing Icons Section -->
