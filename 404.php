@@ -39,7 +39,7 @@
             Blog
             <ul>
                 <li>
-                    <a href="blog-home-1.html">Blog Home 1</a>
+                    <a href="blog-home-1.php">Blog Home 1</a>
                 </li>
                 <li>
                     <a href="blog-home-2.html">Blog Home 2</a>
