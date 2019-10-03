@@ -1,3 +1,5 @@
+<?php $page_title = "Home"; ?>
+
 <?php include("header.php"); ?>
 <?php include("navigation.php"); ?>
 <?php include("banner.php"); ?>
@@ -5,7 +7,7 @@
 
 <!-- Page Content -->
 <div class="container">
-<h1 class="my-4">This is page content!</h1>
+<h1 class="my-4"><?php echo $page_title; ?></h1>
 
 <!-- Marketing Icons Section -->
 <div class="row">
