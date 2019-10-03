@@ -1,3 +1,8 @@
+<?php include("header.php"); ?>
+<?php include("navigation.php"); ?>
+<?php include("banner.php"); ?>
+<?php include("breadcrumb.php"); ?>
+
 <!-- Page Content -->
 <div class="container">
 
@@ -150,3 +155,6 @@
 
 </div>
 <!-- /.container -->
+
+<?php include("call-to-action.php"); ?>
+<?php include("footer.php"); ?>
