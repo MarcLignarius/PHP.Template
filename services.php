@@ -33,7 +33,7 @@
             <a class="nav-link" href="about.php">About</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="services.html">Services</a>
+            <a class="nav-link" href="services.php">Services</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
@@ -135,18 +135,5 @@
   </div>
   <!-- /.container -->
 
-  <!-- Footer -->
-  <footer class="py-5 bg-dark">
-    <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
-    </div>
-    <!-- /.container -->
-  </footer>
-
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-</body>
-
-</html>
+  <?php include("call-to-action.php"); ?>
+<?php include("footer.php"); ?>
