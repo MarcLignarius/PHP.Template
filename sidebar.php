@@ -14,7 +14,7 @@
         <div class="list-group">
           <a href="index.php" class="list-group-item">Home</a>
           <a href="about.php" class="list-group-item">About</a>
-          <a href="services.html" class="list-group-item">Services</a>
+          <a href="services.php" class="list-group-item">Services</a>
           <a href="contact.php" class="list-group-item">Contact</a>
           <a href="portfolio-1-col.php" class="list-group-item">1 Column Portfolio</a>
           <a href="portfolio-2-col.php" class="list-group-item">2 Column Portfolio</a>
